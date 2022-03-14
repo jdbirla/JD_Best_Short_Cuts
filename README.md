@@ -19,7 +19,18 @@ This repository will contains all kind of shortcuts , like Windows , browser etc
 ---
 
 ## Chrome
-
+- Group your tabs
+   1. Open Chrome browser.
+   2. Click New tab "".
+   3. Choose an option:
+     - To add a tab to an existing group, drag the tab into the group.
+     - To add a tab to a new group:
+        - Click New Tab ""and thenright-click a taband thenselect Add Tab to New Group.
+        - Enter a name for your group.
+        - (Optional) You can also:
+          - Select a color for the tab.
+          - Add additional tabs to the group.
+          - Remove the group.
 ---
 
 ## Eclipse
