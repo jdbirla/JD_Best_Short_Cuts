@@ -20,6 +20,7 @@ This repository will contains all kind of shortcuts , like Windows , browser etc
 
 ## Chrome
 - Group your tabs
+
    1. Open Chrome browser.
    2. Click New tab "".
    3. Choose an option:
@@ -31,6 +32,22 @@ This repository will contains all kind of shortcuts , like Windows , browser etc
           - Select a color for the tab.
           - Add additional tabs to the group.
           - Remove the group.
+          
+          
+          ![Browser](Chrome_1.png)
+
+
+- Add an account
+
+      -  Open Chrome browser.
+      -  In the top-right corner next to the address bar, click your profile image.
+      -  Click Manage People.
+      -  Click Add Person.
+      -  Enter a name, choose an image, and click Add.
+      -  Sign in with the Google Account you're adding.
+      -  All settings and bookmarks automatically sync.
+      -  Click your profile image and choose a different profile to switch between accounts.
+     
 ---
 
 ## Eclipse
